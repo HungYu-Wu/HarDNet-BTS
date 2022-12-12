@@ -15,8 +15,9 @@
 ### Performance on RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2021 Dataset
 Validation Phase
 
-| Models       |     |Dice|        |   | HD95   || 
-| Models       |     |Dice|        |   | HD95   || 
+| Models       |     |Dice|        |   | HD95   ||  
+| :----------: | :----: | :----: | :-----------: | :--------: | :------------: | :---------------: |
+|       |ET     |TC| WT       |ET   | TC   |WT| 
 | :----------: | :----: | :----: | :-----------: | :--------: | :------------: | :---------------: |
 |U-Net         | 0.471  | 0.597  | 0.598         |0.672       | 0.617| 0.894| 
 |ResUNet |0.572| 0.690 |0.699 |0.745| 0.725| 0.917| 
