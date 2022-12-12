@@ -10,4 +10,4 @@
 #### For Polyp Segmentation : [HarDNet-MSEG](https://github.com/james128333/HarDNet-MSEG) 90.4% mDice / 119 FPS on Kvasir-SEG @352x352
 
 ## Main results
-<p align="center"> <img src='validaitonphase8th.png' align="center" height="400px"> </p>
+<p align="center"> <img src='imgs/validaitonphase8th.png' align="center" height="400px"> </p>
